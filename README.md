@@ -24,8 +24,8 @@ Text detection AI is made to helps users especially student in order make it eas
 
 To overcome this problem, student can use text detection AI in order to help them to make use of the information that they find in the internet if the resorce is not copiable. By using this AI, it will help them by saving their time a lot rather then re-typing all the information that they needed. Text detection AI from image can be used in numerous functional other than document analysis. For example, it can be used to reconize vehicle license plates, street signs and document retrieval. 
 
-![Coding](![AI](https://user-images.githubusercontent.com/80871331/115046467-11ad6e00-9f0a-11eb-98ef-c3a984a7d0bc.PNG)
-)
+![Coding](![AI](https://user-images.githubusercontent.com/80871331/115047295-f727c480-9f0a-11eb-9653-fb2551455435.PNG)
+
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
 
 
