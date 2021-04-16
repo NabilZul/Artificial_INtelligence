@@ -1,31 +1,28 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# Text Detection OpenCV
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** TEXT DETECTION OPENCV
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- [Ahmad Nabil Bin Zulkifli]
+- [Ahmad Hazim Bin Ahmad Rizal]
+- [Muhammad Adam Danieal Bin Sluhudin Hamdan]
+- [Adhwa Danish Bin Mohamad Noor]
 
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- [To detect text depicted in the image from camera]
+- [To be able to convert the text into String]
+- [To enable users to copy and paste long text in image fastly.]
 
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
+Text detection AI is made to helps users especially student in order make it easier for them to find some research in internet as not everything in the internet is copiable. This has resulted difficulty for them to use the information that they need as they have many assigment to complete.Furthermore, nowadays student movement is restricted to move anywhere as they like as covid-19 cases is increasing day by day. Their source of information only restricted to internet only.
 
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
-
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
-
+To overcome this problem, student can use text detection AI in order to help them to make use of the information that they find in the internet if the resorce is not copiable. By using this AI, it will help them by saving their time a lot rather then re-typing all the information that they needed. Text detection AI from image can be used in numerous functional other than document analysis. For example, it can be used to reconize vehicle license plates, street signs and document retrieval. 
 
 ![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
 Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
